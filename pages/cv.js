@@ -44,7 +44,7 @@ export default function CV() {
     
                 <tr>
                     <th>3</th>
-                    <td>RSIA FAMILY</td>
+                    <td>Eka Hospital Family</td>
                     <td>IT Staff</td>
                     <td>September 2019</td>
                     <td>Sekarang</td>
