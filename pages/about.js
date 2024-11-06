@@ -31,12 +31,8 @@ export default function About() {
                 <h2>GitHub</h2>
             </a>
 
-            <a href="https://www.instagram.com/ve_verdian/" target="_blank" rel="noopener noreferrer" className={styles.card}>
+            <a href="https://www.instagram.com/ve.verdian/" target="_blank" rel="noopener noreferrer" className={styles.card}>
                 <h2>Instagram</h2>
-            </a>
-
-            <a href="https://twitter.com/L4sagna_Band" target="_blank" rel="noopener noreferrer" className={styles.card}>
-                <h2>Twitter</h2>
             </a>
 
             <a href="https://www.linkedin.com/in/verdi-verdian-0b0474171/" target="_blank" rel="noopener noreferrer" className={styles.card}>
