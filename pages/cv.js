@@ -28,7 +28,7 @@ export default function CV() {
      
                 <tr>
                     <th>1</th>
-                    <td>KSP SWAMITRA ANUGRAH ARTHA ABADI</td>
+                    <td>KSP Swamitra Anugrah Artha Abadi</td>
                     <td>Analisa Kredit</td>
                     <td>Oktober 2015</td>
                     <td>Juni 2016</td>
@@ -36,7 +36,7 @@ export default function CV() {
        
                 <tr>
                     <th>2</th>
-                    <td>PT. LAWU INFORMAT ION TECHNOLOGY</td>
+                    <td>PT. Lawu Information Technology</td>
                     <td>Help Desk</td>
                     <td>November 2016</td>
                     <td>Desember 2018</td>
