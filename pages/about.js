@@ -21,11 +21,7 @@ export default function About() {
 
             <section>
             <p className={styles.description}>
-            Perkenalkan nama saya Verdi Verdian umur 30
-            tahun sudah menikah punya anak satu. Saya tergolong orang
-            yang humoris, tepat waktu, jujur, dan
-            bertanggung jawab. Hobi membaca, traveling,
-            dan bermain musik.
+            Halo! Perknelakan Nama Saya Verdi Verdian, berusia 32 tahun. Saya memiliki latar belakang pendidikan S1 di Teknik Informatika dan telah memiliki pengalaman lebih dari 5 tahun di bidang Staf IT. Saya senang bekerja dengan teknologi dan selalu berusaha untuk terus belajar dan berkembang di dunia IT. Jika ada yang ingin Anda ketahui lebih lanjut, silakan tanya saja!
             </p>
             </section>
 
