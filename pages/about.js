@@ -15,7 +15,7 @@ export default function About() {
         <main className={styles.main}>
             <section>
             <h1 className={styles.title}>
-            ve-verdian
+            Verdi Verdian
             </h1>
             </section>
 
