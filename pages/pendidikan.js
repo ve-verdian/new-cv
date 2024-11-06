@@ -19,7 +19,7 @@ export default function Pendidikan() {
                 <li className="step step-primary">SDN 9 Mulyoharjo Pemalang | 1998 - 2004</li>
                 <li className="step step-primary">SMP PIUS Pemalang | 2004 - 2007</li>
                 <li className="step step-primary">MAN Pemalang | IPA | 2007 - 2010</li>
-                <li className="step step-primary">PENDIDIKAN Universitas Semarang | <br/> S1 - TEKNIK INFORMATIKA | 2010 - 2015 | GPA : 2.92</li>
+                <li className="step step-primary">Universitas Semarang | <br/> S1 - TEKNIK INFORMATIKA | 2010 - 2015 | GPA : 2.92</li>
             </ul>
             </div>
             </div>
